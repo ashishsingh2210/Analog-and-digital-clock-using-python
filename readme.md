@@ -1,5 +1,5 @@
 
-#MATHEMATICS AND DEEP LEARNING
+# MATHEMATICS AND DEEP LEARNING
 
 
 
@@ -7,11 +7,11 @@
 **Table of Contents**
 
 
-1. [INTRODUCTION]("REPO LINK")
-	1.1. [What is deep learning]("reference link")
-	1.2. [Historical advancement in deep learning]("reference link")
-	1.3. [Current state -of-art techniques in deep learning]("reference link")
-	1.4. [Limitation in current techniques and idea for future research]("reference link")
+#### [INTRODUCTION]("REPO LINK")
+	- [What is deep learning]("reference link")
+	- [Historical advancement in deep learning]("reference link")
+	- [Current state -of-art techniques in deep learning]("reference link")
+	- [Limitation in current techniques and idea for future research]("reference link")
 
 2. [MATHEMATICAL FOUNDATION FOR DEEP LEARNING]("REPO LINK")
 	2.1. [Linear Algebra]("reference link")
@@ -49,18 +49,7 @@
 ---
 
 
-###Tables
-
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-                
-----
-
-####HTML entities
+#### HTML entities
 
 &copy; &  &uml; &trade; &iexcl; &pound;
 &amp; &lt; &gt; &yen; &euro; &reg; &plusmn; &para; &sect; &brvbar; &macr; &laquo; &middot; 
@@ -71,7 +60,7 @@ X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
 
 
             
-###TeX(LaTeX)
+### TeX(LaTeX)
    
 $$E=mc^2$$
 
@@ -83,4 +72,4 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
                 
 
 
-###End
+### End
