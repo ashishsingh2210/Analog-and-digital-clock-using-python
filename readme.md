@@ -1,6 +1,6 @@
 ## What is deep learning?
 
-Deep learning is like super-smart computer brains inspired by how our own brains work. It's a part of computer learning where we teach computer systems to figure things out by showing them lots and lots of examples. These systems, called neural networks, become experts at recognizing patterns and solving tricky problems. We use them for cool stuff like making computers see and understand pictures, talk and understand language, and even help robots make decisions on their own. Deep learning is like giving computers superpowers to learn and be smart without us telling them every little thing. It's super exciting!
+Deep learning is like super-smart computer brains inspired by how our own brains work. It's a part of computer learning where we teach computer systems to figure things out by showing them lots and lots of examples. These systems, called neural networks, become experts at recognizing patterns and solving tricky problems. We use them for cool stuff like making computers see and understand pictures, talk and understand language, and even help robots make decisions on their own. Deep learning is like giving computers superpowers to learn and be smart without us telling them every little thing.
 
 **Deep learning according to some famous authors**
 * **Geoffrey Hinton:**
